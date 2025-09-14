@@ -1,0 +1,21 @@
+# Ignore media files (videos/images) to reduce project size
+public/videos/*
+public/images/*
+src/assets/*
+
+# Ignore config/build files not needed by AI
+package-lock.json
+postcss.config.js
+tailwind.config.js
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+
+# Optional: ignore test or draft files if any
+src/test/*
+src/drafts/*
+
+# Ignore lock files or IDE-specific folders
+*.log
+*.DS_Store
