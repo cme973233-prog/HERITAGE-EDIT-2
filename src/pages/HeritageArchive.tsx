@@ -34,12 +34,12 @@ const HeritageArchive = () => {
     {
       name: 'Maharaja Vijaysinghji',
       reign: '1890-1951',
-      image: 'https://images.pexels.com/photos/8471890/pexels-photo-8471890.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/WhatsApp Image 2025-09-14 at 01.20.48_1594c922.jpg',
       achievements: [
-        'Progressive ruler who modernized Rajpipla',
+        'Progressive ruler who modernized Rajpipla State',
         'Established educational institutions',
-        'Promoted arts and cultural development',
-        'Implemented social welfare programs'
+        'Promoted arts, architecture, and cultural development',
+        'Implemented social welfare programs for citizens'
       ]
     },
     {
