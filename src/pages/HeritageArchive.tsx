@@ -43,17 +43,6 @@ const HeritageArchive = () => {
       ]
     },
     {
-      name: 'Maharaja Mohansinghji I',
-      reign: '1640-1685',
-      image: 'https://images.pexels.com/photos/8471891/pexels-photo-8471891.jpeg?auto=compress&cs=tinysrgb&w=400',
-      achievements: [
-        'Founder of Rajpipla State',
-        'Established the Gohil dynasty rule',
-        'Built the foundation of the kingdom',
-        'Created administrative framework'
-      ]
-    },  // ✅ Fixed: Added missing comma here
-    {
       name: 'Indra Vikram Singh',
       reign: '1925-1987',
       image: '/WhatsApp Image 2025-09-14 at 01.37.05_b523d2ef.jpg',
