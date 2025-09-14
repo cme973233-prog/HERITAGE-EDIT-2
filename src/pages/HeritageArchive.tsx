@@ -53,6 +53,17 @@ const HeritageArchive = () => {
         'Created administrative framework'
       ]
     }
+    {
+      name: 'Indra Vikram Singh',
+      reign: '1925-1987',
+      image: '/WhatsApp Image 2025-09-14 at 01.37.05_b523d2ef.jpg',
+      achievements: [
+        'Promoted arts and cultural preservation within Rajpipla',
+        'Patron of sports and traditional pursuits such as polo',
+        'Supported agricultural initiatives and community welfare programs',
+        'Preserved Rajpipla\'s heritage, archives, and family legacy'
+      ]
+    }
   ];
 
   const architecturalHighlights = [
