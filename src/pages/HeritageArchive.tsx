@@ -52,7 +52,7 @@ const HeritageArchive = () => {
         'Built the foundation of the kingdom',
         'Created administrative framework'
       ]
-    }
+    },  // ✅ Fixed: Added missing comma here
     {
       name: 'Indra Vikram Singh',
       reign: '1925-1987',
