@@ -5,39 +5,27 @@ import { Crown, Calendar, MapPin, Users, Scroll, Building } from 'lucide-react';
 const HeritageArchive = () => {
   const timelineEvents = [
     {
-      year: '1640',
-      title: 'Foundation of Rajpipla State',
-      description: 'Maharaja Mohansinghji I established the Rajpipla State under the Gohil dynasty',
+      year: '1340',
+      title: 'Establishment of Rajpipla State',
+      description: 'Maharana Arjunsinhji Gohil founded the Rajpipla State under the Gohil Rajput dynasty',
       icon: Crown
     },
     {
-      year: '1680',
-      title: 'Palace Construction Begins',
-      description: 'Construction of the magnificent Rajpipla Palace commenced with Indo-Saracenic architecture',
-      icon: Building
+      year: '1860',
+      title: 'Reign of Maharana Gambhirsinhji',
+      description: 'Maharana Gambhirsinhji Verisalji Sahib ascended the throne and implemented administrative reforms',
+      icon: Crown
     },
     {
-      year: '1735',
-      title: 'Cultural Renaissance',
-      description: 'Period of artistic and cultural flourishing under Maharaja Gambhirsinghji',
-      icon: Scroll
-    },
-    {
-      year: '1820',
-      title: 'British Alliance',
-      description: 'Strategic alliance with British East India Company while maintaining autonomy',
-      icon: Users
-    },
-    {
-      year: '1900',
-      title: 'Modern Reforms',
-      description: 'Maharaja Vijaysinghji introduced progressive reforms and modernization',
+      year: '1915',
+      title: 'Ascension of Maharaja Vijaysinhji',
+      description: 'Maharaja Vijaysinhji Chhatrasinhji became the ruler and modernized the state\'s infrastructure',
       icon: Calendar
     },
     {
       year: '1948',
       title: 'Integration with India',
-      description: 'Peaceful integration of Rajpipla State into the Indian Union',
+      description: 'Rajpipla State peacefully merged with the Indian Union on 10th June 1948',
       icon: MapPin
     }
   ];
